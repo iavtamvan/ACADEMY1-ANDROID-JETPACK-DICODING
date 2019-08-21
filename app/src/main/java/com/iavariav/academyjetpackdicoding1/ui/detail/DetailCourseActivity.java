@@ -1,11 +1,9 @@
-package com.iavariav.academyjetpackdicoding1.detail;
+package com.iavariav.academyjetpackdicoding1.ui.detail;
 
 import android.content.Intent;
 import android.os.Bundle;
 
 import com.bumptech.glide.request.RequestOptions;
-import com.google.android.material.floatingactionbutton.FloatingActionButton;
-import com.google.android.material.snackbar.Snackbar;
 import com.iavariav.academyjetpackdicoding1.DetailCourseAdapter;
 import com.iavariav.academyjetpackdicoding1.R;
 import com.iavariav.academyjetpackdicoding1.data.CourseEntity;
@@ -19,7 +17,6 @@ import androidx.recyclerview.widget.DividerItemDecoration;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.ProgressBar;

@@ -1,4 +1,4 @@
-package com.iavariav.academyjetpackdicoding1.academy;
+package com.iavariav.academyjetpackdicoding1.ui.academy;
 
 
 import android.os.Bundle;

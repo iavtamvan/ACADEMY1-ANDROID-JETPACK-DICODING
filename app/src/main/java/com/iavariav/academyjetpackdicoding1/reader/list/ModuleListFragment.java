@@ -16,7 +16,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ProgressBar;
 
-import com.iavariav.academyjetpackdicoding1.ModuleListAdapter;
 import com.iavariav.academyjetpackdicoding1.MyAdapterClickListener;
 import com.iavariav.academyjetpackdicoding1.R;
 import com.iavariav.academyjetpackdicoding1.data.ModuleEntity;

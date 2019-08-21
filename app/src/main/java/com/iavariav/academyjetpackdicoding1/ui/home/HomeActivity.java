@@ -1,19 +1,15 @@
-package com.iavariav.academyjetpackdicoding1.home;
+package com.iavariav.academyjetpackdicoding1.ui.home;
 
 import android.os.Bundle;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.iavariav.academyjetpackdicoding1.R;
-import com.iavariav.academyjetpackdicoding1.academy.AcademyFragment;
-import com.iavariav.academyjetpackdicoding1.bookmark.BookmarkFragment;
+import com.iavariav.academyjetpackdicoding1.ui.academy.AcademyFragment;
+import com.iavariav.academyjetpackdicoding1.ui.bookmark.BookmarkFragment;
 
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentTransaction;
-
-import android.view.MenuItem;
-import android.widget.TextView;
 
 public class HomeActivity extends AppCompatActivity {
 

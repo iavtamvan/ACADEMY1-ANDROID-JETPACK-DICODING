@@ -14,7 +14,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.request.RequestOptions;
 import com.iavariav.academyjetpackdicoding1.data.CourseEntity;
-import com.iavariav.academyjetpackdicoding1.detail.DetailCourseActivity;
+import com.iavariav.academyjetpackdicoding1.ui.detail.DetailCourseActivity;
 import com.iavariav.academyjetpackdicoding1.utils.GlideApp;
 
 import java.util.ArrayList;

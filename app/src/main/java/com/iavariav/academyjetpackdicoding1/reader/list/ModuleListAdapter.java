@@ -1,4 +1,4 @@
-package com.iavariav.academyjetpackdicoding1;
+package com.iavariav.academyjetpackdicoding1.reader.list;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -8,6 +8,8 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.iavariav.academyjetpackdicoding1.MyAdapterClickListener;
+import com.iavariav.academyjetpackdicoding1.R;
 import com.iavariav.academyjetpackdicoding1.data.ModuleEntity;
 
 import java.util.ArrayList;

@@ -12,16 +12,16 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".detail.DetailCourseActivity"
-            android:parentActivityName=".home.HomeActivity"
+            android:name=".ui.detail.DetailCourseActivity"
+            android:parentActivityName=".ui.home.HomeActivity"
             android:theme="@style/AppTheme.NoActionBar">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.iavariav.academyjetpackdicoding1.home.HomeActivity" />
+                android:value=".ui.home.HomeActivity" />
         </activity>
         <activity android:name=".reader.CourseReaderActivity" />
         <activity
-            android:name=".home.HomeActivity"
+            android:name=".ui.home.HomeActivity"
             android:label="@string/app_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

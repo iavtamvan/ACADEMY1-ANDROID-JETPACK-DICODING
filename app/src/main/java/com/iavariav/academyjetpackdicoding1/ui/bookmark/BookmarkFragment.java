@@ -1,4 +1,4 @@
-package com.iavariav.academyjetpackdicoding1.bookmark;
+package com.iavariav.academyjetpackdicoding1.ui.bookmark;
 
 
 import android.os.Bundle;
